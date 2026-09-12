@@ -1,0 +1,11 @@
+node_modules/
+target/
+.metadata/
+UserProject/.metadata/
+.classpath
+.project
+.settings/
+bin/
+.idea/
+*.class
+application-local.properties
